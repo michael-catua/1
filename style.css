@@ -1,0 +1,37 @@
+.row{
+    width: 400px;
+    display: flex;
+}
+
+.kids{
+    height: 100px;
+    width: 100px;
+}
+
+.green{
+    background-color: green;
+    border:1px solid black;
+}
+
+.yellow{
+    background-color: yellow;
+    border:1px solid black;
+}
+
+.between{
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
